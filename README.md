@@ -13,6 +13,6 @@ ccanb23's [Monthly Electricity Production in GWh [2010-2022]](https://www.kaggle
 The data itself has been scrapped from the [_International Energy Agency (IEA)_](iea.org/data-and-statistics/data-tools/monthly-electricity-statistics)
 
 ### Visual Observation
-Upon applying visualisation, you can now see a clear trend toward renewables and a minor shift away from fossil fuels, though not nearly enough.
+Upon applying visualisation, you can now see a clear trend toward renewables and a shift away from fossil fuels, though not nearly enough.
 
 ![image](https://github.com/oivalian/Australia-Energy-Consumption-January-2011---December-2021-/assets/109859213/84b9e35c-2957-49cc-a53e-c6f288e49ee5)
