@@ -34,7 +34,7 @@ exclude = ["Distribution losses",
            ]
 
 # drop rows containing variables listed in "exclude"
-# Tilde is a negation operator. This will exclude rows containing variables in "exclude" from PRODUCT
+# Tilde is a bitwise operator. This will exclude rows containing variables in "exclude" from PRODUCT
 # isin() check if the df has a particular value - so make FALSE IF exclude IS IN PRODUCT
 df = df[~df["PRODUCT"].isin(exclude)]
 
